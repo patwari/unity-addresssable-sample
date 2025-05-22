@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Downloadables
+  m_EditorClassIdentifier: 
+  m_GroupName: Downloadables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c15b8304e14b6421289f3bbce1e43afd
+  m_SerializeEntries:
+  - m_GUID: 7c28de24605ac45da8fd952cfff6df67
+    m_Address: Assets/Prefabs/GreenSphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8209cb7bad97f4d5eb8640002ef406c5
+    m_Address: Assets/Prefabs/RedCube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5bf219d03fcbb470ba5fac5954c35149, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9046d7bd23da041d7bd14ebf016937b6, type: 2}
+    - {fileID: 11400000, guid: ca55efef4f67c4587abdfc79d8dc59fa, type: 2}
