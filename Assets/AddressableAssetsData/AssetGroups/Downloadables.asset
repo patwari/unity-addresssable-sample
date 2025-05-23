@@ -17,6 +17,21 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: c15b8304e14b6421289f3bbce1e43afd
   m_SerializeEntries:
+  - m_GUID: 274db3c70148a4bd488fdd73ba64434c
+    m_Address: Assets/Materials/Green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28fd81121c6034a3e80a1c0ce31e5280
+    m_Address: Assets/Materials/Red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31a136097275947b294452e0971f5f59
+    m_Address: Assets/Materials/RemoteBlue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7c28de24605ac45da8fd952cfff6df67
     m_Address: Assets/Prefabs/GreenSphere.prefab
     m_ReadOnly: 0
